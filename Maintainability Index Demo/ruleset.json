@@ -1,0 +1,11 @@
+{
+    "name": "9altitudes",
+    "description": "9altitudes",
+    "rules": [
+        {
+            "id": "LC0010",
+            "action": "error",
+            "justification": "Not using Cyclomatic complexity and Maintainability Index calculation"
+        }
+    ]
+}
